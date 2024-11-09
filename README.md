@@ -54,20 +54,6 @@ The app must have the following functionalities
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The `logoUrl` in the each history item have alt as **domain logo**
-- The delete button in the history item should have the `data-testid` as **delete**
-
-</details>
-
 ### Resources
 
 <details>
@@ -103,9 +89,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
