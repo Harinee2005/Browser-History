@@ -1,6 +1,6 @@
-In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
+In this project, let's build a **Browser History** 
 
-### Refer to the image below:
+### Browse History:
 
 <br/>
 <div style="text-align: center;">
